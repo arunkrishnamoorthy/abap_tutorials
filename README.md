@@ -1,2 +1,2 @@
-# abap_tutorials
+# ABAP Tutorials
 ABAP Tutorials
